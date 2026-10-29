@@ -1,0 +1,16 @@
+{
+  "name": "atividade4_ambientes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "contagem.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
